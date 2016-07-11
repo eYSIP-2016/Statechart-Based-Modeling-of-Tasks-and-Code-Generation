@@ -1,0 +1,11 @@
+GeneratorModel for yakindu::c {
+
+	statechart water_level_controller {
+
+		feature Outlet {
+			targetProject = "water_level_controller"
+			targetFolder = "src-gen"
+			libraryTargetFolder = "src"
+		}
+	}
+}

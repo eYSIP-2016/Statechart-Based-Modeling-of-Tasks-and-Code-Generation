@@ -1,0 +1,11 @@
+GeneratorModel for yakindu::java {
+
+	statechart clock {
+
+		feature Outlet {
+			targetProject = "Clock_statechart"
+			targetFolder = "src-gen"
+			libraryTargetFolder = "src"
+		}
+	}
+}
