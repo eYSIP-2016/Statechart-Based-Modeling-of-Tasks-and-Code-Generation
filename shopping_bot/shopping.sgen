@@ -1,0 +1,11 @@
+GeneratorModel for yakindu::c {
+
+	statechart shopping_bot {
+
+		feature Outlet {
+			targetProject = "shopping_bot"
+			targetFolder = "src-gen"
+			libraryTargetFolder = "src"
+		}
+	}
+}
